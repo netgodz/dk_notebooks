@@ -4,5 +4,6 @@
 
 * courses, 收集的一些与天气诊断、数据分析相关教程的Jupyter notebooks.
 * notebooks, 日常撰写的Jupyter notebooks.
+* projects, Some projects code and notebooks.
 * samples, 收集的一些可供参考的Jupyter notebooks.
 * scripts, 一些有用的python代码文件.
